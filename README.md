@@ -12,5 +12,8 @@ Display date and time and temperature on a 64x32 Pixel display.
 
 How the pins are connected to the ESP32 is listed in the ```.ino``` file. 
 
+# Development
+Arduino IDE can be used to compile and upload the source code.
 
+Select "ESP32 Dev Module" as board.
 
